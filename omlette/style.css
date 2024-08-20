@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+    font-family: serif;
+}
+h4{
+    color: purple;
+}
+h3{
+    color: brown;
+}
+
+.white{
+    background-color: white;
+    margin: 50px;
+    padding: 80px;
+}
+
+table {
+    border-collapse: separate; 
+    border-spacing: 10px; 
+}
+
+td {
+    padding: 8px; 
+    border: 1px solid #ddd; 
+}
